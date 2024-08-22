@@ -1,8 +1,8 @@
 # Define the registry path
 $registryPath = 'HKLM:\SYSTEM\CurrentControlSet\Control\Lsa'
 
-# Define the expected registry values
-$expectedValues = @{
+# Define the registry values to set
+$registryValues = @{
 	'RunAsPPL' = 1
 }
 
