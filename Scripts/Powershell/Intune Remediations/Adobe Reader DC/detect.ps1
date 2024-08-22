@@ -4,6 +4,7 @@ $registryPath = 'HKLM:\SOFTWARE\Policies\Adobe\Acrobat Reader\DC\FeatureLockDown
 # Define the expected registry values
 $expectedValues = @{
 	'bDisableJavaScript' = 1
+	'bEnableFlash' = 0
 	'bUpdater' = 0
 	'bAcroSupressUpsell' = 0
 	'bUsageMeasurement' = 0
