@@ -1,1 +1,0 @@
-defaults delete com.panic.Nova

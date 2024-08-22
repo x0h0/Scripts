@@ -1,1 +1,0 @@
-defaults delete lo.cafe.NotchNook
